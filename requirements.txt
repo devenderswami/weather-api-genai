@@ -1,0 +1,4 @@
+pytest
+google-generativeai
+python-dotenv
+requests
